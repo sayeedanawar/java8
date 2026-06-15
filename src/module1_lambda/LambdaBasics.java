@@ -1,4 +1,4 @@
-package com.java8.practice.module1_lambda;
+package com.javatechie.lambda.demo.src.module1_lambda;
 
 /**
  * Practice template for custom functional interfaces using Lambda expressions.

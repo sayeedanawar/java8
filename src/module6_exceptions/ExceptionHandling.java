@@ -1,4 +1,4 @@
-package com.java8.practice.module6_exceptions;
+package com.javatechie.lambda.demo.src.module6_exceptions;
 
 import java.util.Arrays;
 import java.util.List;

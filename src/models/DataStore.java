@@ -1,4 +1,4 @@
-package com.java8.practice.models;
+package com.javatechie.lambda.demo.src.models;
 
 import java.util.Arrays;
 import java.util.List;

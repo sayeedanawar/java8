@@ -1,7 +1,9 @@
-package com.java8.practice.module1_lambda;
+package com.javatechie.lambda.demo.src.module1_lambda;
 
-import com.java8.practice.models.DataStore;
-import com.java8.practice.models.Employee;
+
+
+import com.javatechie.lambda.demo.src.models.DataStore;
+import com.javatechie.lambda.demo.src.models.Employee;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,9 @@
-package com.java8.practice.module2_streams;
+package com.javatechie.lambda.demo.src.module2_streams;
 
-import com.java8.practice.models.*;
+
+import com.javatechie.lambda.demo.src.models.DataStore;
+import com.javatechie.lambda.demo.src.models.Employee;
+
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;

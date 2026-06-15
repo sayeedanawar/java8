@@ -1,15 +1,12 @@
-package com.java8.practice.module5_concurrency;
+package com.javatechie.lambda.demo.src.module5_concurrency;
 
-import com.java8.practice.models.DataStore;
-import com.java8.practice.models.Employee;
-import com.java8.practice.models.Customer;
+
+import com.javatechie.lambda.demo.src.models.Employee;
 
 import java.util.List;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.TimeUnit;
-import java.util.stream.Collectors;
 
 /**
  * Exercise: CompletableFuture asynchronous pipelines.

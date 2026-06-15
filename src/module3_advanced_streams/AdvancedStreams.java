@@ -1,14 +1,9 @@
-package com.java8.practice.module3_advanced_streams;
 
-import com.java8.practice.models.Book;
-import com.java8.practice.models.Customer;
-import com.java8.practice.models.DataStore;
-import com.java8.practice.models.Employee;
-import com.java8.practice.models.Project;
-import com.java8.practice.models.Student;
+
+import com.javatechie.lambda.demo.src.models.DataStore;
+import com.javatechie.lambda.demo.src.models.Employee;
 
 import java.util.*;
-import java.util.stream.*;
 
 /**
  * Advanced Stream API Exercises targeting 5+ Years of Experience.

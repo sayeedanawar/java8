@@ -1,4 +1,4 @@
-package com.java8.practice.module5_concurrency;
+package com.javatechie.lambda.demo.src.module5_concurrency;
 
 /**
  * Exercise: Coordinate Even/Odd printing using two threads with synchronization/handshake logic.

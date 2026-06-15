@@ -1,6 +1,10 @@
-package com.java8.practice.module4_optional;
+package com.javatechie.lambda.demo.src.module4_optional;
 
-import com.java8.practice.models.*;
+
+import com.javatechie.lambda.demo.src.models.DataStore;
+import com.javatechie.lambda.demo.src.models.Employee;
+import com.javatechie.lambda.demo.src.models.Project;
+
 import java.util.*;
 
 /**

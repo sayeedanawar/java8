@@ -1,4 +1,4 @@
-package com.java8.practice.models;
+package com.javatechie.lambda.demo.src.models;
 
 public class Project {
     private String code;

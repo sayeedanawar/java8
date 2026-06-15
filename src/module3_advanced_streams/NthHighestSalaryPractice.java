@@ -1,7 +1,9 @@
-package com.java8.practice.module3_advanced_streams;
+package com.javatechie.lambda.demo.src.module3_advanced_streams;
 
-import com.java8.practice.models.DataStore;
-import com.java8.practice.models.Employee;
+
+
+import com.javatechie.lambda.demo.src.models.DataStore;
+import com.javatechie.lambda.demo.src.models.Employee;
 
 import java.util.*;
 import java.util.stream.*;
