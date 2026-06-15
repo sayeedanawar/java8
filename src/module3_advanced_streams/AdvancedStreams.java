@@ -1,7 +1,8 @@
-
+package com.javatechie.lambda.demo.src.module3_advanced_streams;
 
 import com.javatechie.lambda.demo.src.models.DataStore;
 import com.javatechie.lambda.demo.src.models.Employee;
+import com.javatechie.lambda.demo.src.models.Student;
 
 import java.util.*;
 
